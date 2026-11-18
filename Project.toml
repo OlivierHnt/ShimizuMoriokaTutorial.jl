@@ -1,0 +1,16 @@
+name = "ShimizuMoriokaTutorial"
+uuid = "50f12f29-6e24-465f-baf2-58da53a8a937"
+version = "1.0.0"
+authors = ["Olivier Hénot"]
+
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+RadiiPolynomial = "f2081a94-c849-46b6-8dc9-07bb90ed72a9"
+
+[compat]
+GLMakie = "0.13"
+LinearAlgebra = "1.13"
+OrdinaryDiffEq = "7"
+RadiiPolynomial = "0.12"
